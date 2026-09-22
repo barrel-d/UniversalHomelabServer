@@ -1,7 +1,7 @@
 
 #  Universal Homelab Server
 
-https://github.com/user-attachments/assets/9b981c93-62fa-411a-a96f-08b2b9e07bd5
+https://github.com/user-attachments/assets/3c43e673-9930-47a5-99b6-52fe0250e5ea
 
 *Consolidating multi-server operations into a custom-engineered 4U chassis.*
 
@@ -139,4 +139,5 @@ SRV _minecraft._tcp.mc 25565
 A record points to the IP address of the server. SRV record of port 25565 is the standard used for many minecraft servers.
 
 Although because of the reasons outlined in the cybersecurity section this port number will be changed to a random one to avoid scraping.
+
 
