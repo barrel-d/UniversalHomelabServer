@@ -1,10 +1,8 @@
 
 #  Universal Homelab Server
 
-<video src="https://github.com/barrel-d/UniversalHomelabServer/blob/0386a75cefbb75b5dcba9800b640ee13df2bf8c7/images/Video.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/barrel-d/UniversalHomelabServer/blob/0386a75cefbb75b5dcba9800b640ee13df2bf8c7/images/Video.mp4">
 </video>
-
-https://github.com/barrel-d/UniversalHomelabServer/blob/0386a75cefbb75b5dcba9800b640ee13df2bf8c7/images/Video.mp4
 
 *Consolidating multi-server operations into a custom-engineered 4U chassis.*
 
