@@ -1,7 +1,7 @@
 
 #  Universal Homelab Server
 
-https://github.com/user-attachments/assets/3c43e673-9930-47a5-99b6-52fe0250e5ea
+<img src="images/Video.mp4"/>
 
 *Consolidating multi-server operations into a custom-engineered 4U chassis.*
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/3c43e673-9930-47a5-99b6-52fe0250e5ea
     <tr>
       <td width="50%" align="center">
         <b>Server Rack</b><br><br>
-        <img width="4080" height="3072" alt="IMG_20260813_190544_042" src="images/Image1.png" />
+        <img width="4080" height="3072" alt="IMG_20260813_190544_042" src="images/Image1.jpg" />
       </td>
       <td width="50%" align="center">
         <b>Server Rack 3D view</b><br><br>
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/3c43e673-9930-47a5-99b6-52fe0250e5ea
       </td>
       <td width="50%" align="center">
         <b>Internal Hardware Configuration</b><br><br>
-        <img width="4080" height="3072" alt="IMG_20260813_182051_972" src="images/Image4.png" />
+        <img width="4080" height="3072" alt="IMG_20260813_182051_972" src="images/Image4.jpg" />
       </td>
     </tr>
   </table>
