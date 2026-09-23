@@ -1,4 +1,3 @@
-<img width="792" height="896" alt="Image12" src="https://github.com/user-attachments/assets/062eb181-be9f-4a25-abaa-ffaf61629545" />
 
 #  Universal Homelab Server
 
@@ -113,7 +112,7 @@ In addition to the airflow, I have replaced the 1U heatsinks that came with the 
 While being an administrator of a game server I found out that there are series of botnets that constantly scan the entire IP range for the typical port number for any given game. For example, a typical port for a minecraft server is TCP/25565, which is constantly being scanned by bad actors and server indexers.
 Here is an example on a typical day sometimes with thousands of requests per day:
 
-<img width="75%" alt="Image12" src="https://github.com/user-attachments/assets/83925064-7fed-468f-99e3-b649c984d8db" />
+<img width="75%" alt="Image12" src="images/Image12.png" />
 
 These entities mainly exist to index all avaliable community servers for a game, which is by itself harmess but has caused malicious actors to try to connect to our server.
 Main security feature that helps prevent this is using a whitelist of users. Administrators and trusted users can add new players onto the list which lets them connect.
