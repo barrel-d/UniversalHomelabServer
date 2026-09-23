@@ -1,10 +1,10 @@
 
 #  Universal Homelab Server
 
-<figure class="video_container">
-  <iframe src="images/Video.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+<video src="images/Video.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+
 
 *Consolidating multi-server operations into a custom-engineered 4U chassis.*
 
