@@ -1,8 +1,8 @@
 
 #  Universal Homelab Server
 
-![](images/Video.mp4)
-  
+https://github.com/user-attachments/assets/e2c68eda-e5c7-4f97-85d2-3f90fa393d0a
+
 *Consolidating multi-server operations into a custom-engineered 4U chassis.*
 
 * System Overview
