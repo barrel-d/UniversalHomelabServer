@@ -1,7 +1,7 @@
 
 #  Universal Homelab Server
 
-<img src="images/Video.mp4"/>
+<vid src="images/Video.mp4"/>
 
 *Consolidating multi-server operations into a custom-engineered 4U chassis.*
 
@@ -68,7 +68,7 @@ This document is an overview of the project with some details ommited for the sa
 Minecraft server is setup using a premade docker project by itzg: https://github.com/itzg/docker-minecraft-server 
 
 ##  Hardware
-<img width="50%" alt="IMG_20260718_212711_679" src="images/Image6.png" />
+<img width="50%" alt="IMG_20260718_212711_679" src="images/Image6.jpg" />
 
 MB: X10DRW-iT
 
@@ -106,7 +106,7 @@ This server has unique limitations when it comes to its cooling environment. Typ
 
 In addition to the airflow, I have replaced the 1U heatsinks that came with the motherboard with 2U taller heatsinks for improved heat dissipation.
 
-<img width="50%" alt="IMG_20260627_192148_085" src="images/Image11.png" />
+<img width="50%" alt="IMG_20260627_192148_085" src="images/Image11.jpg" />
 
 ##  Cybersecurity
 While being an administrator of a game server I found out that there are series of botnets that constantly scan the entire IP range for the typical port number for any given game. For example, a typical port for a minecraft server is TCP/25565, which is constantly being scanned by bad actors and server indexers.
