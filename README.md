@@ -22,11 +22,11 @@ https://github.com/user-attachments/assets/3c43e673-9930-47a5-99b6-52fe0250e5ea
     <tr>
       <td width="50%" align="center">
         <b>Server Rack</b><br><br>
-        <img width="4080" height="3072" alt="IMG_20260813_190544_042" src="https://github.com/user-attachments/assets/59396509-a14b-40fb-8abb-0a3fe9dcfd8b" />
+        <img width="4080" height="3072" alt="IMG_20260813_190544_042" src="images/Image1.png" />
       </td>
       <td width="50%" align="center">
         <b>Server Rack 3D view</b><br><br>
-        <img width="3072" height="2313" alt="Untitled6" src="https://github.com/user-attachments/assets/42ffaba9-5666-4043-8c01-cd9c72338684" />
+        <img width="3072" height="2313" alt="Untitled6" src="images/Image2.png" />
       </td>
     </tr>
   </table>
@@ -37,11 +37,11 @@ https://github.com/user-attachments/assets/3c43e673-9930-47a5-99b6-52fe0250e5ea
     <tr>
       <td width="50%" align="center">
         <b>Server Rack Overview Profile</b><br><br>
-        <img width="2500" height="2500" alt="Untitled4" src="https://github.com/user-attachments/assets/86b6dcd8-1d47-4349-a074-1592bf68ee0c" />
+        <img width="2500" height="2500" alt="Untitled4" src="images/Image3.png" />
       </td>
       <td width="50%" align="center">
         <b>Internal Hardware Configuration</b><br><br>
-        <img width="4080" height="3072" alt="IMG_20260813_182051_972" src="https://github.com/user-attachments/assets/4a452964-23c9-4a20-b955-d4f069545866" />
+        <img width="4080" height="3072" alt="IMG_20260813_182051_972" src="images/Image4.png" />
       </td>
     </tr>
   </table>
@@ -53,7 +53,7 @@ The purpose of this project is to consolidate 4 different DIY server machines in
 
 I have been using 4 Dell Optiplex office computers for all my homelab server needs.
 
-<img width="50%" alt="PXL_20260904_050507094_clean" src="https://github.com/user-attachments/assets/03e45cf6-50ff-4850-bdde-0723683d7453" />
+<img width="50%" alt="PXL_20260904_050507094_clean" src="images/Image5.png" />
 
 These were used for game servers, like Minecraft and Project Zomboid as well as other purposes like Joplin note sharing server.
 
@@ -68,7 +68,7 @@ This document is an overview of the project with some details ommited for the sa
 Minecraft server is setup using a premade docker project by itzg: https://github.com/itzg/docker-minecraft-server 
 
 ##  Hardware
-<img width="50%" alt="IMG_20260718_212711_679" src="https://github.com/user-attachments/assets/cf8ea189-d8db-4ff3-99a8-a073f96fc622" />
+<img width="50%" alt="IMG_20260718_212711_679" src="images/Image6.png" />
 
 MB: X10DRW-iT
 
@@ -86,27 +86,27 @@ Last generation server hardware is mostly compatible with regular commertical PC
 However server power delivery systems often use proprietary ways to deliver power like busbars and card edge connectors(DELL PSU example below), which create a need to purchase additional proprietary hardware for interfacing.
 
 <div align="center">
-  <img width="50%" alt="dell" src="https://github.com/user-attachments/assets/9266aedb-bc26-41b1-8165-1e6a95661e02" />
+  <img width="50%" alt="dell" src="images/Image7.png" />
 </div>
 
 By using a regular desktop PC power supply we can deliver the same result without the additional difficulties that come with server power delivery solutions. That is why I used my robust used EVGA power supply that can meet the power requirement of running this motherboard together with the two CPUs with safe headroom.
 
 To house all necessary components I designed and 3D printed a case that rigidly connects all necessary components together. The case comes with removable top cover, similar to enterprise server trays, for easy servicing of the interior components.
 
-<img width="2000" height="2000" alt="Untitled2" src="https://github.com/user-attachments/assets/5df1e9ba-098a-4c01-82be-40caefc98341" />
+<img width="2000" height="2000" alt="Untitled2" src="images/Image8.png" />
 
 
 ##  Cooling
 
 This server has unique limitations when it comes to its cooling environment. Typically datacenters are their own facilities where the amount of noise that is created by machines is very low on the priority list. Since this unique server is deployed in a living space, the server should not add significant ammount of noise into the envoronment under a regular load. 
 
-<img width="50%" alt="Untitled" src="https://github.com/user-attachments/assets/728a3817-d8ce-413b-9375-2c6b9ed17854" />
-<img width="50%" alt="Untitled1" src="https://github.com/user-attachments/assets/1ae3d801-a583-4e81-86cf-399354d6dda0" />
+<img width="50%" alt="Untitled" src="images/Image9.png" />
+<img width="50%" alt="Untitled1" src="images/Image10.png" />
 
 
 In addition to the airflow, I have replaced the 1U heatsinks that came with the motherboard with 2U taller heatsinks for improved heat dissipation.
 
-<img width="50%" alt="IMG_20260627_192148_085" src="https://github.com/user-attachments/assets/0c8b12e4-b348-47b4-be89-45107ebab747" />
+<img width="50%" alt="IMG_20260627_192148_085" src="images/Image11.png" />
 
 ##  Cybersecurity
 While being an administrator of a game server I found out that there are series of botnets that constantly scan the entire IP range for the typical port number for any given game. For example, a typical port for a minecraft server is TCP/25565, which is constantly being scanned by bad actors and server indexers.
